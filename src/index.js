@@ -147,4 +147,4 @@ function calculateWinner(squares) {
   return null;
 }
 
-// git status　の使い方
+// git commit の使い方
